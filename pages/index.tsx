@@ -39,7 +39,7 @@ const Title = styled.h1`
   text-align: center;
 
   a {
-    color: #0070f3;
+    color: ${(props) => props.theme.colors.primary};
     text-decoration: none;
   }
 
@@ -91,8 +91,8 @@ const Card = styled.a`
   &:hover,
   &:focus,
   &:active {
-    color: #0070f3;
-    border-color: #0070f3;
+    color: ${(props) => props.theme.colors.primary};
+    border-color: ${(props) => props.theme.colors.primary};
   }
 
   h2 {
