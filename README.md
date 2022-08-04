@@ -24,9 +24,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see you
 
 ## 🧐 What's inside?
 
-This Starter includes [Sass](https://sass-lang.com/) which is a way to provide superpowers to your CSS.
+This Starter includes [TypeScript](https://www.typescriptlang.org/), [styled-components](https://styled-components.com/).
 
-The rest of the Starter is based off of the Next.js default starter.
+The rest of the starter is based off of the Next.js default starter.
 
 ## 📚 Learn More About Next.js
 
