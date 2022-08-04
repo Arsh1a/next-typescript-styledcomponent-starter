@@ -24,7 +24,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see you
 
 ## 🧐 What's inside?
 
-This Starter includes [TypeScript](https://www.typescriptlang.org/), [styled-components](https://styled-components.com/).
+This Starter includes [TypeScript](https://www.typescriptlang.org/) and [styled-components](https://styled-components.com/).
 
 The rest of the starter is based off of the Next.js default starter.
 
